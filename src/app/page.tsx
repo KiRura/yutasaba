@@ -34,7 +34,10 @@ export default function Page() {
 					</NextLink>
 				</Button>
 				<Link colorPalette="green" variant="underline" asChild>
-					<NextLink href="https://kirura.github.io/yutasaba" target="_blank">
+					<NextLink
+						href="https://kirura.github.io/yutasaba-old"
+						target="_blank"
+					>
 						本家サイトなんてものは無い <FaUpRightFromSquare />
 					</NextLink>
 				</Link>
